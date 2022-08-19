@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;700&family=Silkscreen:wght@400;700&display=swap');
+
+h1{
+    text-align: center;
+}
+h1, h2{
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Silkscreen', cursive;
+}
+.inicio{
+    height: 100px;
+}
+nav{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+footer
+{
+    background-color: #005677;
+    color: white
+}
+section
+{
+    text-align: center;
+}
+
+.foto{
+    height: 100px;
+}
+
+.menu{
+    background-color: rgb(161, 240, 215);
+    float:right;
+}
+a{
+    color: white;
+}
+

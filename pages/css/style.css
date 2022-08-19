@@ -1,0 +1,25 @@
+nav
+{
+    background-color: #c7cbcd;
+    text-align:center;
+    padding: 40px;
+}
+
+footer
+{
+    background-color: #005677;
+    color: white
+}
+
+
+a{
+    padding: 10px;
+    font-size: 20px;
+}
+i{
+    color: white;
+}
+
+section{
+    text-align: center;
+}
