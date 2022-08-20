@@ -31,8 +31,8 @@ section
 }
 
 .menu{
-    background-color: rgb(161, 240, 215);
-    float:right;
+    color: black;
+    text-align: center;
 }
 a{
     color: white;
